@@ -25,6 +25,7 @@ The predictive modeling and visualizations aim to provide a deeper understanding
 
 ## Data
 The data used in this analysis was sourced from the San Francisco government’s open data portal and covers a wide range of crime categories across the city from 2003 to 2018.
+
 [Download CSV file](https://drive.google.com/file/d/1YwQnCw3SaheOMSks6TZU_dM6Vrz4tyRI/view?usp=sharing)
 
 
