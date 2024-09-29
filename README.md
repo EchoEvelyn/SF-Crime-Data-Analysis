@@ -6,8 +6,11 @@ This project provides an analysis of crime data in San Francisco from 2003 to 20
 The key analyses performed in this project include:
 
 **Time Series Analysis**: A SARIMA model was used to forecast crime trends based on historical data, allowing for predictions of future crime occurrences. This includes training on past data and evaluating performance on test data.
+
 **Exploratory Data Analysis**: Visualizations such as time series plots for monthly and hourly crime data, bar charts for crime categories and districts, and an interactive map displaying incident density across San Francisco.
+
 **Crime Distribution Analysis**: Exploration of crime trends by different categories, times of day, and geographical distribution using statistical visualizations and an interactive Tableau dashboard.
+
 The predictive modeling and visualizations aim to provide a deeper understanding of how crime evolves over time and across different districts of San Francisco, helping in decision-making and public safety strategies.
 
 ## Data
@@ -41,9 +44,9 @@ The following key insights are visualized in the Tableau dashboard:
 
 ## Tableau Dashboard
 The interactive dashboard for this analysis is available on Tableau Public. You can explore the data and visualizations through the following link:
-[SF Crime Dashboard](https://public.tableau.com/views/your-dashboard-url)
+[SF Crime Dashboard](https://public.tableau.com/shared/P52CMTNDK?:display_count=n&:origin=viz_share_link)
 
 ## How to Use
 1. Click the link above to view the interactive Tableau dashboard.
-2. Use the filters on the right side of the dashboard to explore the data by year, category, district, and resolution.
+2. Use the filters explore the data by year, category, district, and resolution.
 3. Hover over the data points to view detailed information.
