@@ -66,3 +66,14 @@ The interactive dashboard for this analysis is available on Tableau Public. You 
 1. Click the link above to view the interactive Tableau dashboard.
 2. Use the filters explore the data by year, category, district, and resolution.
 3. Hover over the data points to view detailed information.
+4. 
+
+
+## Findings and Conclusions
+**Crime Trends**: The analysis of San Francisco crime data from 2003 to 2018 reveals that theft-related incidents are the most prevalent, followed by other criminal offenses and non-criminal issues. Crime rates tend to peak around 12 PM and 6 PM, indicating key times for heightened law enforcement presence.
+
+**Geographic Hotspots**: The districts of Southern, Mission, and Northern were identified as having the highest concentration of criminal activity. This spatial analysis provides valuable insights into where policing efforts could be focused for maximum impact.
+
+**Unresolved Cases**: Approximately 73.6% of criminal cases remain unresolved, which highlights the need for comprehensive measures aimed at improving investigative outcomes. These findings suggest the necessity of strategic reforms in resource allocation, police training, and community engagement to enhance public safety and justice effectiveness.
+
+**Time Series Forecasting**: A SARIMA model was developed to forecast future crime trends using historical data from 2003 to 2017. The model demonstrated solid predictive capabilities with a mean squared error (MSE) of 162.42, effectively capturing crime patterns and enabling better planning for crime prevention initiatives.
