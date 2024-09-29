@@ -14,12 +14,12 @@ The key analyses performed in this project include:
 The predictive modeling and visualizations aim to provide a deeper understanding of how crime evolves over time and across different districts of San Francisco, helping in decision-making and public safety strategies.
 
 ## Table of Contents
-1. [Data](#Data)
-2. [Data Fields](#Data Fields)
-3. [Dashboard Visualizations](#Dashboard Visualizations)
-4. [Tools and Technologies](#Tools and Technologies)
-5. [Tableau Dashboard](#Tableau Dashboard)
-6. [How to Use](#How to Use)
+1. [Data](#data)
+2. [Data Fields](#data-fields)
+3. [Dashboard Visualizations](#dashboard-visualizations)
+4. [Tools and Technologies](#tools-and-technologies)
+5. [Tableau Dashboard](#tableau-dashboard)
+6. [How to Use](#how-to-use)
 
 ## Data
 The data used in this analysis was sourced from the San Francisco government’s open data portal and covers a wide range of crime categories across the city from 2003 to 2018.
