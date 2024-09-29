@@ -21,6 +21,7 @@ The predictive modeling and visualizations aim to provide a deeper understanding
 4. [Tools and Technologies](#tools-and-technologies)
 5. [Tableau Dashboard](#tableau-dashboard)
 6. [How to Use](#how-to-use)
+7. [Findings and Conclusions](#findings-and-conclusions)
 
 
 ## Data
@@ -66,7 +67,6 @@ The interactive dashboard for this analysis is available on Tableau Public. You 
 1. Click the link above to view the interactive Tableau dashboard.
 2. Use the filters explore the data by year, category, district, and resolution.
 3. Hover over the data points to view detailed information.
-4. 
 
 
 ## Findings and Conclusions
