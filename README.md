@@ -52,7 +52,7 @@ The following key insights are visualized in the Tableau dashboard:
 
 ## Tableau Dashboard
 The interactive dashboard for this analysis is available on Tableau Public. You can explore the data and visualizations through the following link:
-[SF Crime Dashboard](https://public.tableau.com/shared/P52CMTNDK?:display_count=n&:origin=viz_share_link)
+<a href="https://public.tableau.com/shared/SYST3QZSR?:display_count=n&:origin=viz_share_link" target="_blank">SF Crime Dashboard</a>
 
 ## How to Use
 1. Click the link above to view the interactive Tableau dashboard.
